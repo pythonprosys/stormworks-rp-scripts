@@ -1,3 +1,4 @@
+
 function onTick()
 	sos = input.getBool(1)
 	sosx = input.getBool(2)
